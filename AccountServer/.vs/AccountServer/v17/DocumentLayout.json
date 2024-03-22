@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\db\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|solutionrelative:db\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|d:\\2_dedicatedserver\\unrealaccountserver\\accountserver\\db\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|solutionrelative:db\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|d:\\2_dedicatedserver\\unrealaccountserver\\accountserver\\db\\serverinfodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|solutionrelative:db\\serverinfodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\db\\accountdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,6 +19,14 @@
       "RelativeMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|solutionrelative:db\\webpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|d:\\2_dedicatedserver\\unrealaccountserver\\accountserver\\db\\matchinfodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|solutionrelative:db\\matchinfodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,12 +35,24 @@
       "RelativeMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\accountserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|solutionrelative:accountserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|d:\\2_dedicatedserver\\unrealaccountserver\\accountserver\\controllers\\serverinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|solutionrelative:controllers\\serverinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|d:\\2_dedicatedserver\\unrealaccountserver\\accountserver\\controllers\\matchinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|solutionrelative:controllers\\matchinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|d:\\2_dedicatedserver\\unrealaccountserver\\accountserver\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|solutionrelative:extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\accountserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|solutionrelative:accountserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71165BF8-C6E0-4096-BE35-93013AD34AD4}|AccountServer.csproj|D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 186,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,86 +86,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T09:03:24.187Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-05T08:56:36.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AccountServer",
-              "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\AccountServer.csproj",
-              "RelativeDocumentMoniker": "AccountServer.csproj",
-              "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\AccountServer.csproj",
-              "RelativeToolTip": "AccountServer.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-05T08:52:27.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataModel.cs",
-              "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\DB\\DataModel.cs",
-              "RelativeDocumentMoniker": "DB\\DataModel.cs",
-              "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\DB\\DataModel.cs",
-              "RelativeToolTip": "DB\\DataModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T08:51:45.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AccountDbContext.cs",
               "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\DB\\AccountDbContext.cs",
               "RelativeDocumentMoniker": "DB\\AccountDbContext.cs",
               "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\DB\\AccountDbContext.cs",
               "RelativeToolTip": "DB\\AccountDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T08:50:11.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T08:41:09.133Z"
+              "WhenOpened": "2024-03-05T08:50:11.384Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\DB\\DataModel.cs",
+              "RelativeDocumentMoniker": "DB\\DataModel.cs",
+              "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\DB\\DataModel.cs",
+              "RelativeToolTip": "DB\\DataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T08:51:45.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerInfoDbContext.cs",
+              "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\DB\\ServerInfoDbContext.cs",
+              "RelativeDocumentMoniker": "DB\\ServerInfoDbContext.cs",
+              "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\DB\\ServerInfoDbContext.cs",
+              "RelativeToolTip": "DB\\ServerInfoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T06:39:12.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEYAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T08:45:58.824Z",
               "EditorCaption": ""
@@ -158,13 +144,118 @@
               "RelativeDocumentMoniker": "DB\\WebPacket.cs",
               "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\DB\\WebPacket.cs",
               "RelativeToolTip": "DB\\WebPacket.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAmAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T08:47:51.562Z"
+              "WhenOpened": "2024-03-05T08:47:51.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatchInfoDbContext.cs",
+              "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\DB\\MatchInfoDbContext.cs",
+              "RelativeDocumentMoniker": "DB\\MatchInfoDbContext.cs",
+              "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\DB\\MatchInfoDbContext.cs",
+              "RelativeToolTip": "DB\\MatchInfoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T06:46:23.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:03:24.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MatchInfoController.cs",
+              "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\Controllers\\MatchInfoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MatchInfoController.cs",
+              "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\Controllers\\MatchInfoController.cs",
+              "RelativeToolTip": "Controllers\\MatchInfoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T06:33:26.693Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "ServerInfoController.cs",
+              "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\Controllers\\ServerInfoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServerInfoController.cs",
+              "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\Controllers\\ServerInfoController.cs",
+              "RelativeToolTip": "Controllers\\ServerInfoController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:12:07.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-05T08:56:36.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T08:41:09.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\Extension.cs",
+              "RelativeDocumentMoniker": "Extension.cs",
+              "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\Extension.cs",
+              "RelativeToolTip": "Extension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T06:55:52.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountServer.csproj",
+              "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\AccountServer.csproj",
+              "RelativeDocumentMoniker": "AccountServer.csproj",
+              "ToolTip": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\AccountServer.csproj",
+              "RelativeToolTip": "AccountServer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-05T08:52:27.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
@@ -176,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -188,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "AccountServer",
               "DocumentMoniker": "D:\\2_DedicatedServer\\UnrealAccountServer\\AccountServer\\AccountServer.csproj",
               "RelativeDocumentMoniker": "AccountServer.csproj",

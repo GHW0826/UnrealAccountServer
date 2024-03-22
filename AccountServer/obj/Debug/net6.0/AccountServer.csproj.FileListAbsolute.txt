@@ -55,3 +55,4 @@ D:\2_DedicatedServer\UnrealAccountServer\AccountServer\obj\Debug\net6.0\AccountS
 D:\2_DedicatedServer\UnrealAccountServer\AccountServer\obj\Debug\net6.0\AccountServer.genruntimeconfig.cache
 D:\2_DedicatedServer\UnrealAccountServer\AccountServer\obj\Debug\net6.0\ref\AccountServer.dll
 D:\2_DedicatedServer\UnrealAccountServer\AccountServer\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\2_DedicatedServer\UnrealAccountServer\AccountServer\obj\Debug\net6.0\AccountServer.sourcelink.json

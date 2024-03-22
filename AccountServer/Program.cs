@@ -14,6 +14,14 @@ builder.Services.AddDbContext<AccountDbContext>(
     )
 );
 
+builder.Services.AddDbContext<ServerInfoDbContext>(
+    options => options.UseMySql(
+        builder.Configuration.GetConnectionString("DefaultConnection"),
+        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection"))
+    )
+);
+
+
 var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
